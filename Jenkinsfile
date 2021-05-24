@@ -1,6 +1,6 @@
 
 // version of the shared jenkins lib to use
-@Library('shared-lib@v1') _
+@Library('shared-lib@v2') _
 
 // use a simple template (non-language specific)
 podTemplates.simple {
